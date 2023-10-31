@@ -1,5 +1,5 @@
 # QM2515
-Programas de la materia Intruducción a la Quimiometría.
+Programas de la materia Intruducción a la Quimiometría. Tarea Nro. 3.
 # Programa #1: Calcula el pH de una Solución
 Dada la concentración de iones H+.
 
